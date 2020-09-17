@@ -1,4 +1,7 @@
-<center><img src="https://raw.githubusercontent.com/fayzullayev/react-card-dealer-app/master/public/card_dealer.gif"/><center><br />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fayzullayev/react-card-dealer-app/master/public/card_dealer.gif" />
+  <div>
+    <br />
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
